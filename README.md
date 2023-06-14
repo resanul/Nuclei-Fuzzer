@@ -1,1 +1,1 @@
-# Nuclei-Fuzzer
+# Nuclei-Fuzzer for ubuntu users
